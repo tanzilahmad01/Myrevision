@@ -1,0 +1,7 @@
+Tools used in Data Science 
+
+
+pandas
+NumPy
+R
+SQL
