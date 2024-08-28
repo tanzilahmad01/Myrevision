@@ -5,3 +5,8 @@ pandas
 NumPy
 R
 SQL
+
+Big Data Tools
+Apache Spark: A distributed computing framework for big data processing.
+Hadoop: An open-source framework for distributed storage and processing of large datasets.
+
