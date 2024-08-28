@@ -13,3 +13,17 @@ Hadoop: An open-source framework for distributed storage and processing of large
 
 Cloud-Based Tools:
 Google Colab, Databricks, and AWS SageMaker: Cloud-based platforms for data science and machine learning.
+
+Version Control and Collaboration:
+Git and GitHub: For version control, collaboration, and sharing code.
+Visualization Tools:
+Tableau, Power BI, and Plotly: Tools for creating interactive visualizations.
+Visualization Tools:
+Tableau, Power BI, and Plotly: Tools for creating interactive visualizations.
+Deep Learning Frameworks:
+TensorFlow and PyTorch: Widely used for deep learning and neural network development.
+Text Analysis and Natural Language Processing (NLP):
+NLTK (Natural Language Toolkit) and spaCy: Libraries for NLP tasks.
+Containerization and Deployment:
+Docker: For creating lightweight, portable containers.
+
