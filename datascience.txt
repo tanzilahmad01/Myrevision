@@ -10,3 +10,6 @@ Big Data Tools
 Apache Spark: A distributed computing framework for big data processing.
 Hadoop: An open-source framework for distributed storage and processing of large datasets.
 
+
+Cloud-Based Tools:
+Google Colab, Databricks, and AWS SageMaker: Cloud-based platforms for data science and machine learning.
